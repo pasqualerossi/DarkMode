@@ -6,7 +6,7 @@ To **Dark Mode** in 2 Clicks :new_moon:
 
 <img width="1120" alt="Dark" src="https://user-images.githubusercontent.com/58959408/215634891-7fd7e60d-5468-4635-893b-50b855acb9fd.png">
 
-# Here's How
+# :question: Here's How
 
 <br>
 
@@ -30,8 +30,6 @@ git clone https://github.com/LoredanaLoSurdo/DarkMode.git && cd DarkMode && cp -
 
 - If you wish to go back to Light Mode, while in Dark Mode, double click on the **DarkMode** Icon again to activate Light Mode again.
 
-<br>
-
 ## Future Features
 
 - Mouse Tracking Speed :computer_mouse:
@@ -39,7 +37,12 @@ git clone https://github.com/LoredanaLoSurdo/DarkMode.git && cd DarkMode && cp -
 
 and much more.
 
+## Contribute
+Know a different solution or you want to contribute? Feel free to submit a [pull request](https://github.com/pasqualerossi/DarkMode/pulls) or contact me on [Linkedin](https://www.linkedin.com/in/pasqualerossi1/).
+
 <br>
 
-## Contribute
-Know of a different solution or want to contribute? Feel free to submit a pull request or contact me on Linkedin!
+# :pouting_woman: Inspired By
+
+- [Original Dark Mode Repo](https://github.com/LoredanaLoSurdo/DarkMode)
+- [Link To Their Repo](https://github.com/LoredanaLoSurdo)
