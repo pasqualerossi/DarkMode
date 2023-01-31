@@ -6,7 +6,9 @@ To **Dark Mode** in 2 Clicks :new_moon:
 
 <img width="1120" alt="Dark" src="https://user-images.githubusercontent.com/58959408/215634891-7fd7e60d-5468-4635-893b-50b855acb9fd.png">
 
-# How?
+# Here's How
+
+<br>
 
 :one: Copy the URL below into your iTerm/Terminal:
 
@@ -24,11 +26,7 @@ git clone https://github.com/LoredanaLoSurdo/DarkMode.git && cd DarkMode && cp -
 
 ## :bell: Notes
 
-<br>
-
 - Remember that every time you login to the 42 Computers, double click on the **DarkMode Icon** to activate Dark Mode again.
-
-<br>
 
 - If you wish to go back to Light Mode, while in Dark Mode, double click on the **DarkMode** Icon again to activate Light Mode again.
 
