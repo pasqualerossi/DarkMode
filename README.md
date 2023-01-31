@@ -1,43 +1,47 @@
-# DarkMode
+Go From **Light Mode** :sunny:
 
-A quick apperance toggle for the 42 school computers, created as a solution to the settings reverting after logging out.
+<img width="1120" alt="Light" src="https://user-images.githubusercontent.com/58959408/215634826-41216e30-f99d-4a24-b8b1-d143c430ea13.png">
 
-Due to the limits of the 42 user accounts I have made this script an easy to access button rather than an automatic login item.
+To **Dark Mode** in 2 Clicks :new_moon:
 
-I will be looking into adding other prefrences such as mouse tracking speed and scroll direction, as long as my user permissions allow it. With these potential implementations you'll get access to your desired prefrences with one quick launch of the script.
+<img width="1120" alt="Dark" src="https://user-images.githubusercontent.com/58959408/215634891-7fd7e60d-5468-4635-893b-50b855acb9fd.png">
 
-## Contents
+# How?
 
-[Getting Started](#getting-started)  
-[Usage](#usage)  
-[Example](#example)  
-[Contribute](#contribute)  
-[Acknowledgements](#Acknowledgements)
+:one: Copy the URL below into your iTerm/Terminal:
 
+```
+git clone https://github.com/LoredanaLoSurdo/DarkMode.git && cd DarkMode && cp -a DarkMode.app ~/Desktop && cd .. && rm -rf DarkMode
+```
 
-### Getting Started
-Use your preferred repository cloning method:
-HTTPS, SSH, GitHub CLI or instead download the ZIP.
+:two: Double Click on the Dark Mode Icon on your Desktop to activate Dark Mode.
 
-Open the repositories folder and move the script "DarkMode" onto your Desktop.
+<img width="123" alt="Screen Shot 2023-01-31 at 11 56 08 AM" src="https://user-images.githubusercontent.com/58959408/215635610-22663a35-4233-4901-b72b-1304569b414d.png">
 
-### Usage
-Double click the script to switch between light and dark mode. Once completed, the application for the script will immediately close.
+:three: Enjoy Dark Mode :new_moon:
 
-Ideally this script lives on the desktop so the apperance settings can easily be toggled after logging in.
+<br>
 
-### Example
+## :bell: Notes
 
-<img src="Light.png" width="500" height="313">
+<br>
 
-<img src="Dark.png" width="500" height="313">
+- Remember that every time you login to the 42 Computers, double click on the **DarkMode Icon** to activate Dark Mode again.
 
-### Contribute
+<br>
+
+- If you wish to go back to Light Mode, while in Dark Mode, double click on the **DarkMode** Icon again to activate Light Mode again.
+
+<br>
+
+## Future Features
+
+- Mouse Tracking Speed :computer_mouse:
+- Scroll Direction :trackball:
+
+and much more.
+
+<br>
+
+## Contribute
 Know of a different solution or want to contribute? Feel free to submit a pull request or contact me on Linkedin!
-
-### Acknowledgements
-[Dark mode icon created by Freepik - Flaticon](https://www.flaticon.com/free-icon/dark-mode_5262027)
-
-##
-
-#### Thank you for checking out my repo!
